@@ -1,9 +1,4 @@
 
-//please make sure to setup the raylib library
-// 
-//                                      "Compiling and adding raylib to Visual Studio 2022 project
-//you can find a video of how to setup here => https://www.youtube.com/watch?v=ZZV4VrAasEQ 
-
 #include "raylib.h"
 #include "iostream"
 #include "deque"
